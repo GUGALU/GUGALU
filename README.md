@@ -30,7 +30,7 @@
   <a href="https://www.instagram.com/gustavo.poll1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="discord.com/user/537656953137004555" target="_blank">
+  <a href="discord.com/users/537656953137004555" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="https://www.linkedin.com/in/gustavo-manoel-dias-polli-ba5058211/" target="_blank">
